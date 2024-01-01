@@ -1,0 +1,4 @@
+package Instance;
+
+interface Flyable {
+}
